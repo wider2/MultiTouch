@@ -1,0 +1,1 @@
+just a mini game for testing multitouch event on Android java
